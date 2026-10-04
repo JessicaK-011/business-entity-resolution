@@ -1,0 +1,14 @@
+dataset/
+data/
+checkpoints/
+artifacts/
+output/
+*.pt
+*.pth
+*.bin
+*.npy
+*.npz
+*.sqlite
+.env
+__pycache__/
+.ipynb_checkpoints/
